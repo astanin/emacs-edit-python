@@ -1,8 +1,8 @@
-# emacs-edit-python
+# edit-python.el
 
-Quick hacks to improve Python editing in Emacs.
+Facilities to improve Python editing in Emacs.
 
-## Adding imports
+## imports
 
 `edit-python-import-from` inserts an unqualified
 "`from module import name`" for the identifier at point;
